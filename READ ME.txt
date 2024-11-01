@@ -1,0 +1,4 @@
+Download  Mysql Connector net
+
+pakai xampp (hanya aktifkan mysql)
+clientnya dbeaver

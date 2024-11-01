@@ -1,0 +1,9 @@
+C:\Users\Mahasiswa\AppData\Local\Temporary Projects\penjualan\bin\Debug\penjualan.exe
+C:\Users\Mahasiswa\AppData\Local\Temporary Projects\penjualan\bin\Debug\penjualan.pdb
+C:\Users\Mahasiswa\AppData\Local\Temporary Projects\penjualan\bin\Debug\penjualan.xml
+C:\Users\Mahasiswa\AppData\Local\Temporary Projects\penjualan\obj\x86\Debug\penjualan.Form1.resources
+C:\Users\Mahasiswa\AppData\Local\Temporary Projects\penjualan\obj\x86\Debug\penjualan.Resources.resources
+C:\Users\Mahasiswa\AppData\Local\Temporary Projects\penjualan\obj\x86\Debug\penjualan.vbproj.GenerateResource.Cache
+C:\Users\Mahasiswa\AppData\Local\Temporary Projects\penjualan\obj\x86\Debug\penjualan.exe
+C:\Users\Mahasiswa\AppData\Local\Temporary Projects\penjualan\obj\x86\Debug\penjualan.xml
+C:\Users\Mahasiswa\AppData\Local\Temporary Projects\penjualan\obj\x86\Debug\penjualan.pdb
